@@ -129,7 +129,7 @@ export default function Main() {
         let tokenAddress = "0x5bb73c1df811114b8482F4d25f1B71b25459C924";
         let tokenSymbol = "TFI";
         let tokenDecimals = 18;
-        let tokenImage = "https://i.imgur.com/EYTTZLG.png";
+        let tokenImage = "https://i.imgur.com/ETzn6s6.png";
 
         try {
             // wasAdded is a boolean. Like any RPC method, an error may be thrown.
